@@ -3,7 +3,8 @@
 Cube Jumper is an arcade 2D game made in Unity. 
 
 ## Installation
-You can download the game from https://drive.google.com/file/d/1kYWuboFI-rP3i8DAS3fwWBaR18qwh-WE/view?usp=sharing
+You can download the game here:
+https://drive.google.com/file/d/15al1M4i3luMFqiAVwSk8V93E9tmxNNaz/view?usp=sharing
 
 ## Menu
 
